@@ -16,9 +16,9 @@ Train and test predictive models to forecast email campaign performance metrics 
 # Insights Generation: 
 Gain actionable insights from the data analysis, including factors influencing email engagement and strategies for improving campaign effectiveness.
 # Tableau Visualization: 
-Visualize key metrics and insights through interactive charts and graphs using Tableau dashboard and story functionalities.
+Visualize key metrics and insights through interactive charts and graphs using Tableau dashboard and story functionalities. https://public.tableau.com/app/profile/susan.ndinoshinge/viz/Book1finalproject_17080304967260/EMAILCAMPAIGNANALYZERDASHBOARD
 # Video Presentation: 
-Watch an AI-generated video showcasing the Email Campaign Analyzer potential impact on marketing efforts, the impact of email campaigns and the importance of data-driven decision-making.
+Watch an AI-generated video showcasing the Email Campaign Analyzer potential impact on marketing efforts, the impact of email campaigns and the importance of data-driven decision-making. https://youtu.be/74Buvo1-gAg
 # PowerPoint Presentation: 
 Review a PowerPoint presentation summarizing the project's objectives, methodology, key findings, and recommendations.
 # Notebook:
